@@ -141,14 +141,14 @@ img{max-width: 100%;
   margin-bottom: 4rem;
 }
 .cover-home{
-  background-image:url(logo.png);
+  background-image: url(logo.png);
   height:800px;
 }
 .about p{
   margin-bottom: 3rem;
 }
 .cover-news{
-  background-image:url(logo.png);
+  background-image: url(logo.png);
   background-size: cover;
   background-position: center;
   height: 500px;
@@ -200,7 +200,7 @@ img{max-width: 100%;
     font-size: 2rem;
   }
   .cover-home{
-    background-image: url(images/logo.png);
+    background-image: url(logo.png);
   }
   .sub-cover{
     height: 400px;
@@ -211,7 +211,7 @@ img{max-width: 100%;
     margin: 4rem auto 0;
   }
   .page-footer{
-    background-image: url(images/haikei.jpg);
+    background-image: url(haikei.jpg);
   }
   .info th{
     padding-left: 2.5rem;
@@ -241,7 +241,7 @@ padding: 1rem;
   color: #0bd;
 }
 .cover-news{
-  background-image: url(images/logo.png);
+  background-image: url(logo.png);
 }
 .news-contents{
   display: flex;
@@ -262,7 +262,7 @@ padding: 1rem;
   
 }
 .page-footer{
-  background-image:url(images/haikei.jpg);
+  background-image:url(haikei.jpg);
   padding-left: 12rem;
 }
 .info th{
